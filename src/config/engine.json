@@ -1,0 +1,46 @@
+{
+  "engineName": "gasto-fiscal",
+  "hostIdentifier": "host-927czy",
+  "endpointBase": "https://b6248e5e297247d08de900b7b3b5b17b.app-search.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-qzvets51g8qevgwtygemcqn3",
+  "resultFields": [
+    "uds",
+    "usd",
+    "link",
+    "description",
+    "laboratorio",
+    "title",
+    "nps_link",
+    "nombre",
+    "states",
+    "remedio",
+    "visitors",
+    "square_km",
+    "monto",
+    "world_heritage_site",
+    "date_established",
+    "tiempo",
+    "regiones",
+    "moneda",
+    "location",
+    "acres",
+    "subcaso",
+    "involucrados",
+    "id"
+  ],
+  "sortFields": [
+    "id",
+    "description",
+    "location",
+    "moneda",
+    "monto"
+  ],
+  "facets": [
+    "involucrados",
+    "laboratorio",
+    "remedio",
+    "usd"
+  ],
+  "titleField": "nombre",
+  "urlField": "link"
+}
